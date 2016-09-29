@@ -1,0 +1,16 @@
+PODS:
+  - StringCase (0.1.0)
+
+DEPENDENCIES:
+  - StringCase (from `../`)
+
+EXTERNAL SOURCES:
+  StringCase:
+    :path: ../
+
+SPEC CHECKSUMS:
+  StringCase: 370de68f5edd35fa4c535b8f9ca7ecb5b1f29c0a
+
+PODFILE CHECKSUM: 97146ad3ef95be23d187a5e465ffd917e455b1d3
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'StringCase_Tests' do
+  pod 'StringCase', :path => '../'
+  
+  
+end

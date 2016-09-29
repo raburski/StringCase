@@ -1,0 +1,6 @@
+framework module StringCase {
+  umbrella header "StringCase-umbrella.h"
+
+  export *
+  module * { export * }
+}
