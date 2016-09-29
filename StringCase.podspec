@@ -9,9 +9,10 @@
 Pod::Spec.new do |s|
   s.name             = 'StringCase'
   s.version          = '0.1.0'
-  s.summary          = 'String extension that allows you to easily switch between casings.'
+  s.summary          = 'String extension that allows you to easily switch between cases.'
 
   s.description      = <<-DESC
+  Simple String extension that allows you to swiftly convert between Pascal, snake, camel, MACRO, dot and cobol cases.
                        DESC
 
   s.homepage         = 'https://github.com/Rabursky/StringCase'
